@@ -115,10 +115,10 @@
   color: var(--spice-subtext);
   position: absolute;
   margin-bottom: 30px;
-  right: 266px;
+  right: 280px;
 }
 .playback-bar__progress-time-elapsed {
-  right: 308px;
+  right: 330px;
 }
 .playback-bar__progress-time-elapsed::after {
   content: '  /';
